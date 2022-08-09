@@ -2,10 +2,12 @@
 # Egirl Detector By 17'🤓
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fintel1337%2FCrowBot-Leak-by-17-&count_bg=%23F400FF&title_bg=%232F2D2D&icon=semaphoreci.svg&icon_color=%23FF00AD&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Egirl Database Scanner
+##### Egirl Database Scanner
 
-I AM NOT RESPONSABLE OF WHAT YOU'RE DOING WITH THE INFORMATIONS IN THE DATABASE
-FUN / EDUCATIONAL PURPOSES ONLY
+# Release 15/08/22
+
+> I AM NOT RESPONSABLE OF WHAT YOU'RE DOING WITH THE INFORMATIONS IN THE DATABASE
+> FUN / EDUCATIONAL PURPOSES ONLY
 
 > Click On Star Button for support !🤓
 
