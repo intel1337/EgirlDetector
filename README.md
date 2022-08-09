@@ -4,7 +4,7 @@
 
 ##### Egirl Database Scanner
 
-# Release 15/08/22
+# Release 15/08/22 Not Working Currently
 
 > I AM NOT RESPONSABLE OF WHAT YOU'RE DOING WITH THE INFORMATIONS IN THE DATABASE
 > FUN / EDUCATIONAL PURPOSES ONLY
