@@ -11,7 +11,7 @@ FUN / EDUCATIONAL PURPOSES ONLY
 
 ### Screenshot
 
-![image](![image](https://cdn.discordapp.com/attachments/941070849908297818/1006607316231143744/unknown.png))
+![image](![image](https://cdn.discordapp.com/attachments/941070849908297818/1006607316231143744/unknown.png)
 
 # Concept 
 
